@@ -1,0 +1,17 @@
+C:\Users\tanki\Documents\bookstore\OnlineBookstore.Application\bin\Debug\net8.0\OnlineBookstore.Application.deps.json
+C:\Users\tanki\Documents\bookstore\OnlineBookstore.Application\bin\Debug\net8.0\OnlineBookstore.Application.dll
+C:\Users\tanki\Documents\bookstore\OnlineBookstore.Application\bin\Debug\net8.0\OnlineBookstore.Application.pdb
+C:\Users\tanki\Documents\bookstore\OnlineBookstore.Application\bin\Debug\net8.0\OnlineBookstore.Domain.dll
+C:\Users\tanki\Documents\bookstore\OnlineBookstore.Application\bin\Debug\net8.0\OnlineBookstore.Infrastructure.dll
+C:\Users\tanki\Documents\bookstore\OnlineBookstore.Application\bin\Debug\net8.0\OnlineBookstore.Domain.pdb
+C:\Users\tanki\Documents\bookstore\OnlineBookstore.Application\bin\Debug\net8.0\OnlineBookstore.Infrastructure.pdb
+C:\Users\tanki\Documents\bookstore\OnlineBookstore.Application\obj\Debug\net8.0\OnlineBookstore.Application.csproj.AssemblyReference.cache
+C:\Users\tanki\Documents\bookstore\OnlineBookstore.Application\obj\Debug\net8.0\OnlineBookstore.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tanki\Documents\bookstore\OnlineBookstore.Application\obj\Debug\net8.0\OnlineBookstore.Application.AssemblyInfoInputs.cache
+C:\Users\tanki\Documents\bookstore\OnlineBookstore.Application\obj\Debug\net8.0\OnlineBookstore.Application.AssemblyInfo.cs
+C:\Users\tanki\Documents\bookstore\OnlineBookstore.Application\obj\Debug\net8.0\OnlineBookstore.Application.csproj.CoreCompileInputs.cache
+C:\Users\tanki\Documents\bookstore\OnlineBookstore.Application\obj\Debug\net8.0\OnlineBo.98F116CD.Up2Date
+C:\Users\tanki\Documents\bookstore\OnlineBookstore.Application\obj\Debug\net8.0\OnlineBookstore.Application.dll
+C:\Users\tanki\Documents\bookstore\OnlineBookstore.Application\obj\Debug\net8.0\refint\OnlineBookstore.Application.dll
+C:\Users\tanki\Documents\bookstore\OnlineBookstore.Application\obj\Debug\net8.0\OnlineBookstore.Application.pdb
+C:\Users\tanki\Documents\bookstore\OnlineBookstore.Application\obj\Debug\net8.0\ref\OnlineBookstore.Application.dll

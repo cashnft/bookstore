@@ -1,0 +1,12 @@
+C:\Users\tanki\Documents\bookstore\OnlineBookstore.Domain\bin\Debug\net8.0\OnlineBookstore.Domain.deps.json
+C:\Users\tanki\Documents\bookstore\OnlineBookstore.Domain\bin\Debug\net8.0\OnlineBookstore.Domain.dll
+C:\Users\tanki\Documents\bookstore\OnlineBookstore.Domain\bin\Debug\net8.0\OnlineBookstore.Domain.pdb
+C:\Users\tanki\Documents\bookstore\OnlineBookstore.Domain\obj\Debug\net8.0\OnlineBookstore.Domain.csproj.AssemblyReference.cache
+C:\Users\tanki\Documents\bookstore\OnlineBookstore.Domain\obj\Debug\net8.0\OnlineBookstore.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tanki\Documents\bookstore\OnlineBookstore.Domain\obj\Debug\net8.0\OnlineBookstore.Domain.AssemblyInfoInputs.cache
+C:\Users\tanki\Documents\bookstore\OnlineBookstore.Domain\obj\Debug\net8.0\OnlineBookstore.Domain.AssemblyInfo.cs
+C:\Users\tanki\Documents\bookstore\OnlineBookstore.Domain\obj\Debug\net8.0\OnlineBookstore.Domain.csproj.CoreCompileInputs.cache
+C:\Users\tanki\Documents\bookstore\OnlineBookstore.Domain\obj\Debug\net8.0\OnlineBookstore.Domain.dll
+C:\Users\tanki\Documents\bookstore\OnlineBookstore.Domain\obj\Debug\net8.0\refint\OnlineBookstore.Domain.dll
+C:\Users\tanki\Documents\bookstore\OnlineBookstore.Domain\obj\Debug\net8.0\OnlineBookstore.Domain.pdb
+C:\Users\tanki\Documents\bookstore\OnlineBookstore.Domain\obj\Debug\net8.0\ref\OnlineBookstore.Domain.dll

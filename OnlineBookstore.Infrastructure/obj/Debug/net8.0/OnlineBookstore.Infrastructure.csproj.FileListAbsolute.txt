@@ -1,0 +1,17 @@
+C:\Users\tanki\Documents\bookstore\OnlineBookstore.Infrastructure\bin\Debug\net8.0\OnlineBookstore.Infrastructure.deps.json
+C:\Users\tanki\Documents\bookstore\OnlineBookstore.Infrastructure\bin\Debug\net8.0\OnlineBookstore.Infrastructure.runtimeconfig.json
+C:\Users\tanki\Documents\bookstore\OnlineBookstore.Infrastructure\bin\Debug\net8.0\OnlineBookstore.Infrastructure.dll
+C:\Users\tanki\Documents\bookstore\OnlineBookstore.Infrastructure\bin\Debug\net8.0\OnlineBookstore.Infrastructure.pdb
+C:\Users\tanki\Documents\bookstore\OnlineBookstore.Infrastructure\bin\Debug\net8.0\OnlineBookstore.Domain.dll
+C:\Users\tanki\Documents\bookstore\OnlineBookstore.Infrastructure\bin\Debug\net8.0\OnlineBookstore.Domain.pdb
+C:\Users\tanki\Documents\bookstore\OnlineBookstore.Infrastructure\obj\Debug\net8.0\OnlineBookstore.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\tanki\Documents\bookstore\OnlineBookstore.Infrastructure\obj\Debug\net8.0\OnlineBookstore.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tanki\Documents\bookstore\OnlineBookstore.Infrastructure\obj\Debug\net8.0\OnlineBookstore.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\tanki\Documents\bookstore\OnlineBookstore.Infrastructure\obj\Debug\net8.0\OnlineBookstore.Infrastructure.AssemblyInfo.cs
+C:\Users\tanki\Documents\bookstore\OnlineBookstore.Infrastructure\obj\Debug\net8.0\OnlineBookstore.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\tanki\Documents\bookstore\OnlineBookstore.Infrastructure\obj\Debug\net8.0\OnlineBo.3D44FB56.Up2Date
+C:\Users\tanki\Documents\bookstore\OnlineBookstore.Infrastructure\obj\Debug\net8.0\OnlineBookstore.Infrastructure.dll
+C:\Users\tanki\Documents\bookstore\OnlineBookstore.Infrastructure\obj\Debug\net8.0\refint\OnlineBookstore.Infrastructure.dll
+C:\Users\tanki\Documents\bookstore\OnlineBookstore.Infrastructure\obj\Debug\net8.0\OnlineBookstore.Infrastructure.pdb
+C:\Users\tanki\Documents\bookstore\OnlineBookstore.Infrastructure\obj\Debug\net8.0\OnlineBookstore.Infrastructure.genruntimeconfig.cache
+C:\Users\tanki\Documents\bookstore\OnlineBookstore.Infrastructure\obj\Debug\net8.0\ref\OnlineBookstore.Infrastructure.dll

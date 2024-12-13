@@ -1,0 +1,35 @@
+version: '3.8'
+
+services:
+  postgres:
+    image: postgres:16
+    container_name: bookstore_db
+    environment:
+      POSTGRES_DB: OnlineBookstore
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: mysecretpassword
+    ports:
+      - "5432:5432"
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+      - ./init-scripts:/docker-entrypoint-initdb.d
+    networks:
+      - bookstore_network
+
+  redis:
+    image: redis:7
+    container_name: bookstore_cache
+    ports:
+      - "6379:6379"
+    networks:
+      - bookstore_network
+    volumes:
+      - redis_data:/data
+
+volumes:
+  postgres_data:
+  redis_data:
+
+networks:
+  bookstore_network:
+    driver: bridge
